@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.connectsphere.auth.dto.UpdateProfileRequestDTO"/>
+    <fullyQualifiedTypeName name="com.connectsphere.auth.dto.ChangePasswordRequestDTO"/>
+    <fullyQualifiedTypeName name="com.connectsphere.auth.entity.BlacklistedToken"/>
+    <fullyQualifiedTypeName name="com.connectsphere.auth.repository.BlacklistedTokenRepository"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
+    <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
+    <fullyQualifiedTypeName name="com.connectsphere.auth.service.AuthServiceImpl"/>
+    <fullyQualifiedTypeName name="jakarta.transaction.Transactional"/>
+    <fullyQualifiedTypeName name="com.connectsphere.auth.entity.AuthProvider"/>
+</qualifiedTypeNameHistroy>

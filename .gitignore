@@ -1,0 +1,21 @@
+# Compiled output — never commit
+**/target/
+**/*.class
+**/*.jar
+**/*.war
+
+# IDE files
+**/.classpath
+**/.project
+**/.settings/
+**/.factorypath
+**/.idea/
+**/*.iml
+
+# Secrets — never commit
+.env
+**/.env
+
+# OS
+.DS_Store
+Thumbs.db
