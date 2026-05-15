@@ -25,6 +25,7 @@
 networks:
   connectsphere-net:
     driver: bridge
+    name: connectsphere-net
 
 volumes:
   mysql-data:
