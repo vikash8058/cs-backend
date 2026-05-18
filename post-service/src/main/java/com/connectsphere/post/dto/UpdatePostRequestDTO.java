@@ -1,6 +1,6 @@
 package com.connectsphere.post.dto;
 
-import com.connectsphere.post.model.Visibility;
+import com.connectsphere.post.entity.Visibility;
 import jakarta.validation.constraints.Size;
 import lombok.*;
 
